@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+D:\programming\lab 12.3 A\lab 12.3 A\lab 12.3 A.cpp(88,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library D:\programming\lab 12.3 A\lab 12.3 A\x64\Debug\UnitTest1.lib and object D:\programming\lab 12.3 A\lab 12.3 A\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\programming\lab 12.3 A\lab 12.3 A\x64\Debug\UnitTest1.dll
